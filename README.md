@@ -1,4 +1,4 @@
-# -List-of-cybersecurity-YouTube-channels
+# List-of-cybersecurity-YouTube-channels
 1. Hak5 — General cybersecurity coverage.
 2. The XSS Rat — Everythug bounty hunting.
 3. ITProTV — General cybersecurity coverage.
